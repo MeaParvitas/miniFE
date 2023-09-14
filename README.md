@@ -1,4 +1,6 @@
-# miniFE Finite Element Mini-Application
+# miniFE Finite Element Mini-Application DEEP
+
+This version of the code is specifically build to run on the DEEP system at JSC.
 
 MiniFE is an proxy application for unstructured implicit finite element codes.
 It is similar to HPCCG and pHPCCG but provides a much more complete vertical 
